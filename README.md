@@ -1,6 +1,6 @@
 # RetinalCode
 
-Note: The code present on this repo is currently poorly documented.  This will be addressed soon!
+Note: The code present on this repo is currently poorly documented.  In the coming weeks this will be addressed, and instructions will be given for how to reproduce the results shown in the figures.
 
 Identifying the constraints and redundancies shaping the retinal code with a deep network simulation.  We find that convolutional and (untied) locally connected networks tend to yield oriented receptive fields similar to those in V1.  However, subject to a dimensionality bottleneck constraint in an early layer, center-surround receptive fields characteristic of retinal ganglion cells and LGN emerge. 
 
